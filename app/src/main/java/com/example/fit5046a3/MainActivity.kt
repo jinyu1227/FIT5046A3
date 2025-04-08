@@ -42,7 +42,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     FIT5046A3Theme {
-        Greeting("Android")
+        Greeting("666")
     }
 }
 //我改了11111111111111
